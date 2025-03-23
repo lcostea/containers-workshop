@@ -10,7 +10,7 @@ Create a local folder for the workshop:
 
 
 1. [Inspecting a container image: layers and configuration](1.inspecting_container_image.md)
-2. [Building a container in several ways: multi-stage, DinD, BuildKit, daemonless, podman](2.building_container.md)
+2. [Building a container in several ways: multi-stage, DinD, daemonless, podman, kaniko](2.building_container.md)
 3. [Running containers: namespaces and relations between docker, containerd and runc](3.running_container.md)
 4. [(more) Secure containers: from privileged to distroless and rootless](4.rootless.md)
 
